@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Fivem Discord Presence</title>
   </head>
   <body>
     <h1>Fivem Discord Presence</h1>
